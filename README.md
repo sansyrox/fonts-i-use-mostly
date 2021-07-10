@@ -3,7 +3,10 @@
 ### Web Design
 - Josephine Sans
 - Miso
-  #### Blog Content:
+- Recoleta (Headings)
+- Euclidcircularb (Below recoleta) for subheadings and content
+
+#### Blog Content:
   - Apercu, sans-serif
 
 ### Code
